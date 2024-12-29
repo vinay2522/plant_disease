@@ -23,16 +23,3 @@ pip install -r requirements.txt
 - Run the code with the mentioned command below.
 
 streamlit run app.py 
-
-
-
-
-
-
-
-download the model from here: https://drive.google.com/drive/folders/1siPKe3pmQdBkYxD42_8-qlL19Qh1XSHV?usp=sharing
-
-
-
-If you find my videos useful,  I would love your support on Pyresearch: https://www.youtube.com/c/Pyresearch
-
